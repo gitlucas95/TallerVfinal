@@ -18,7 +18,7 @@ EstacionarApp es una aplicación móvil desarrollada con Flutter diseñada para 
 
 - **Flutter** y **Dart** para el desarrollo multiplataforma (Android, iOS).
 - Gestión de estado y navegación adaptada a Flutter.
-- Integración con servicios para la actualización en tiempo real (puede incluir Firebase u otros servicios según implementación).
+- Integración con servicios para la actualización en tiempo real.
 - Control de permisos para ubicación y notificaciones.
 
 ---
