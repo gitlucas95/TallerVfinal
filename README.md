@@ -1,12 +1,33 @@
-# estacionarapp
+# EstacionarApp (DEMO).
 
-A new Flutter project.
+EstacionarApp es una aplicación móvil desarrollada con Flutter diseñada para mejorar la experiencia de estacionamiento en zonas céntricas o con alta congestión vehicular. La aplicación permite a los usuarios visualizar en tiempo real la disponibilidad de espacios en su cuadra, facilitando la búsqueda de estacionamiento y optimizando el tiempo.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Funcionalidades principales
 
-A few resources to get you started if this is your first Flutter project:
+- **Visualización en tiempo real**: Consulta la disponibilidad de espacios para estacionar en tu cuadra o zona cercana.
+- **Comunicación entre vecinos**: Los usuarios pueden ofrecer o solicitar prestado un espacio en su cochera o entrada de garaje cuando no lo están usando.
+- **Coordinación de horarios**: Permite notificar y coordinar horarios de llegada y salida para aprovechar espacios que se liberan.
+- **Comunidad colaborativa**: Fomenta la cooperación entre vecinos para optimizar el uso del espacio disponible.
+- **Planificación anticipada**: Los conductores pueden verificar la disponibilidad antes de llegar para decidir si buscar estacionamiento en otra zona.
+
+---
+
+## Tecnologías utilizadas
+
+- **Flutter** y **Dart** para el desarrollo multiplataforma (Android, iOS).
+- Gestión de estado y navegación adaptada a Flutter.
+- Integración con servicios para la actualización en tiempo real (puede incluir Firebase u otros servicios según implementación).
+- Control de permisos para ubicación y notificaciones.
+
+---
+## Instalación y configuración
+
+1. Clonar el repositorio:
+   En la bash hacé -->
+   git clone https://github.com/gitFrancoln/tallerV.git
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
