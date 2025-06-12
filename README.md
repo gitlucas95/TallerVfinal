@@ -28,6 +28,8 @@ EstacionarApp es una aplicación móvil desarrollada con Flutter diseñada para 
    En la bash hacé -->
    git clone https://github.com/gitFrancoln/tallerV.git
 
+---
+## Para ver más sobre Flutter --->
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
